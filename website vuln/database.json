@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "joao",
+        "senha": "1235",
+        "admin": false
+    },
+    {
+        "nome": "maria",
+        "senha": "@wasd",
+        "admin": false
+    },
+    {
+        "nome": "pedro",
+        "senha": "senha",
+        "admin": false
+    },
+    {
+        "nome": "lucas",
+        "senha": "qwerty",
+        "admin": false
+    },
+    {
+        "nome": "ana",
+        "senha": "asdfg",
+        "admin": false
+    },
+    {
+        "nome": "admin",
+        "senha": "admin",
+        "admin": true
+    }
+]
